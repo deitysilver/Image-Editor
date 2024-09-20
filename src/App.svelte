@@ -1,4 +1,5 @@
 <script>
+  // imports
   import Tailwindcss from './tailwindcss.svelte';
   import Icon from '@iconify/svelte';
 
